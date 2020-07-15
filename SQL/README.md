@@ -1,6 +1,6 @@
 ### Question 1:
 
-##### a. Question b & c will based on the following table schema:
+##### a. Question b , c & d will based on the following table schema:
 	• order_id NUMBER
 	• customer_name VARCHAR
 	• order_date DATE
