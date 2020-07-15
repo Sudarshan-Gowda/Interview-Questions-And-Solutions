@@ -50,6 +50,8 @@ PS: 21 (3*7), 22 (2*11), 26 (2*13) are numbers that should not be in the list.
 ```
  
 ```
+Solution 1:
+
  public static int sumOfTwoLargestElements(int[] a) {
 		int max = Integer.MIN_VALUE;
 		int secondMax = Integer.MAX_VALUE;
@@ -67,6 +69,8 @@ PS: 21 (3*7), 22 (2*11), 26 (2*13) are numbers that should not be in the list.
 ```
 
 ```
+Solution 2:
+
 public static int getClosestToZero(int[] a) {
 		int currentValue = 0;
 		int closestVal = a[0];
@@ -82,6 +86,8 @@ public static int getClosestToZero(int[] a) {
 ```
 
 ```
+Solution 3:
+
 public static void first1500NaturalNumbers() {
 		int index = 1;
 		for (int i = 2; index <= 1500; i++) {
