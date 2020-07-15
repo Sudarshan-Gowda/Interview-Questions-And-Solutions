@@ -1,6 +1,6 @@
 -------------- 
 ### Question 1
-
+```
 1. Implement the following function
 public static int sumOfTwoLargestElements(int[] a) {
  /*
@@ -47,3 +47,4 @@ semicolon):
 36 : 2 2 3 3
 40 : 2 2 2 5
 PS: 21 (3*7), 22 (2*11), 26 (2*13) are numbers that should not be in the list. 
+```
